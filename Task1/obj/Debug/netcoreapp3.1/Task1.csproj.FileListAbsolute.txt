@@ -1,0 +1,12 @@
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/bin/Debug/netcoreapp3.1/Task1.deps.json
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/bin/Debug/netcoreapp3.1/Task1.runtimeconfig.json
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/bin/Debug/netcoreapp3.1/Task1.runtimeconfig.dev.json
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/bin/Debug/netcoreapp3.1/Task1.dll
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/bin/Debug/netcoreapp3.1/Task1.pdb
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.csprojAssemblyReference.cache
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfoInputs.cache
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfo.cs
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.CoreCompileInputs.cache
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.dll
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.pdb
+/Users/crytonandrew/Documents/Programming/Languages/C# /Task1/Task1/obj/Debug/netcoreapp3.1/Task1.genruntimeconfig.cache
